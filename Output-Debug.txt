@@ -1,0 +1,27 @@
+﻿'RayMarching.exe' (Win32): Loaded 'C:\Users\joels\source\repos\RayMarching\Debug\RayMarching.exe'. Symbols loaded.
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. 
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+The thread 0x568 has exited with code 0 (0x0).
+'RayMarching.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+The thread 0x4008 has exited with code 0 (0x0).
+The thread 0x2818 has exited with code 0 (0x0).
+The program '[4608] RayMarching.exe' has exited with code 0 (0x0).
