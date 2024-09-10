@@ -5,7 +5,7 @@ This ray marching engine uses GLEW and GLFW to run OpenGL. Most of the OpenGL co
 Ray marching is a relatively unknown way of rendering 3D objects, but it's efficiency comes from a special function called the "distance estimator" which takes in a position in 3D space and outputs the furthest distance to the closest object. Instead of having to model an object and render a bunch of triangles, we just have to have a single function that defines the distance to the objects in the scene. This is really powerful for rendering fractals since fractals are really hard to render with any sort of detail if all we can do is use a combination of triangles. By finding a neat function that represents the distance to the fractal from an arbitrary point in space, then we render the fractal in high detail for a mere fraction of the computational effort.
 
 For a great explanation of what ray marching is, check out Code Parade's video: https://youtu.be/svLzmFuSBhk
-For more in depth and mathematica explanations I referenced Inigo Quilez's website: https://iquilezles.org/www/index.htm
+For more in depth and mathematical explanations I referenced Inigo Quilez's website: https://iquilezles.org/www/index.htm
            
 Controls:
 - W (move camera up)
